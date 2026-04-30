@@ -1,1 +1,0 @@
-"# gc-portal.vercel.app" 
